@@ -49,6 +49,11 @@ This project showcases an interactive Sales Dashboard created in Microsoft Excel
 
 ---
 
+## 📜 License
+Licensed under the MIT License – see the LICENSE file for details.
+
+---
+
 ## ⭐ Final Notes
 
 This dashboard is part of my data analysis portfolio. Feel free to clone this repo, try the dashboard, or get in touch for feedback or collaboration!
