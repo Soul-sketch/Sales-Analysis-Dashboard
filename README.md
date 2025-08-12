@@ -1,91 +1,54 @@
-# Sales-Analysis-Dashboard
-A data analysis project with interactive dashboards built in microsoft excel.
+# 📊 Sales Analysis Dashboard
 
-OVERVIEW
+A data analysis project featuring interactive dashboards built using **Microsoft Excel**.
 
-This project showcases an interactive Sales Dashboard created in Microsoft Excel to visulaize and analyze global sales data. The dashboard was designed to help stakeholders quickly interpret key business matrics such as sales by country, product line performance, customer segmentation and monthly trends.
+---
 
+## 📌 Overview
 
-PROJECT OBJECTIVES
+This project showcases an interactive Sales Dashboard created in Microsoft Excel to visualize and analyze global sales data. The dashboard was designed to help stakeholders quickly interpret key business metrics such as:
 
-* Visualize total sales by country using pivot charts
+- Sales by country
+- Product line performance
+- Customer segmentation
+- Monthly sales trends
 
-* identify top-performing product lines
+---
 
-* Track monthly sales trends
+## 🎯 Project Objectives
 
-* Analyze top customers by sales
+- 📍 Visualize total sales by country using pivot charts
+- 📍 Identify top-performing product lines
+- 📍 Track monthly sales trends
+- 📍 Analyze top customers by sales
+- 📍 Integrate slicers for interactive data filtering
 
-* Integrate slicers for interactive data filtering
+---
 
+## 📂 Files Included
 
-DATASET INFORMATION
+| File Name | Description |
+|-----------|-------------|
+| `Sales_Performance_Analysis.xlsx` | Excel file containing raw data, pivot tables, and the final dashboard |
+| `README.md` | Project documentation |
 
-* File: Sales_Performance_Analysis.xlsx
+---
 
-* Source: Sample sales transaction data for a multinational product-based company.
+## 🛠 Tools Used
 
-* Fields: Country, Product line, Deal Size, Sales Amount, Customer Name, Order Date etc.
+- Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
+- Data Cleaning & Transformation (Formula logic)
+- Dashboard Design Techniques
 
+---
 
+## 👤 Author
 
-TOOLS & TECHNOLOGIES
+**Ruchir Bhandarkar**  
+📧 [ruchirbhandarkar127@email.com]  
 
-* Pivot Tables
+---
 
-* Pivot charts
+## ⭐ Final Notes
 
-* Slicers
-
-* Interactive Dashboard Design
-
-
-KEY PERFORMANCE INDICATORS (KPIs)
-
-1. Total Sales by Country
-
-2. Top 5 product Lines by Sales
-
-3. Top 10 customers by sales
-
-4. Monthly Sales Trend
-
-5. Dynamic Filtering with Slicers
-
-
-KEY INSIGHTTS
-
-* The USA Generated the highest revenue among all countries.
-
-* Classic Cars emerged as the top-selling product line.
-
-* The monthly trend showed storng seasonal variations in sales performance.
-
-* Mini Gifts Distributors Ltd. and Euro Shopping Channel are major customers driving revenue.
-
-
- HOW TO USE
-
- 1. Open the Sales_Performance_Analysis.xlsx file in Excel.
- 
- 2. Navigate to the Dashboard tab.
- 
- 3. Use the slicers(Product Line, Country, Deal Size) to dynamically filter the visualizations.
- 
- 4. Explore insights from various charts and pivot summaries.
- 
-
- FUTURE IMPROVEMENTS
-
- * Add forecasting functionality using Excel functions or Power BI.
-
- * Expand analysis to include profitability and cost metrics.
-
- * Integrate conditional formatting for alerts.
-
-
-AUTHOR
-
-Ruchir Bhandarkar
-
-Email: (ruchirbhandarkar127@gmail.com)
+This dashboard is part of my data analysis portfolio. Feel free to clone this repo, try the dashboard, or get in touch for feedback or collaboration!
